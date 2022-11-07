@@ -1,6 +1,6 @@
 ## HostPlus
 
-只支持http映射,https只支持转发
+只支持http映射,https只能转发,无法做映射
 
 对比host文件外,支持一下三种映射(都可以带端口):
 - ip到ip
